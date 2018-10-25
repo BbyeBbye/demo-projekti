@@ -7,3 +7,4 @@ module.exports.controller = function(app) {
       res.render('users/signup')
   });
 
+#testi
